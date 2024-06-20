@@ -89,4 +89,4 @@ To better understand the flow of the program, refer to the following flowchart:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/MohamedHussein27/CPP-Project/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MohamedHussein27/CPP-Project/main/edit/LICENSE) file for details.
