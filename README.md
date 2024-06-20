@@ -49,14 +49,13 @@ This project is a C++ implementation for analyzing electrical circuits with resi
 
 ## Example
 
-Please enter the type of connection, followed by the values of the resistances, and put the letter (E) when you are finished
-Use the letter (P) for parallel and the letter (S) for series
-Input: P 100 200 S 300 400 E
-Please enter the value of the voltage
-Input: 10
-Output: 
-The value of the total resistance is: 75
-The value of the current is: 0.133333
+      Please enter the type of connection, followed by the values of the resistances, and put the letter (E) when you are finished
+      Use the letter (P) for parallel and the letter (S) for series
+      Input: P 100 200 S 300 400 E
+      Please enter the value of the voltage 
+      Input: 10 
+      The value of the total resistance is: 75
+      The value of the current is: 0.133333
 
 
 
