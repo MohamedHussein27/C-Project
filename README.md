@@ -49,4 +49,44 @@ This project is a C++ implementation for analyzing electrical circuits with resi
 
 ## Example
 
+Please enter the type of connection, followed by the values of the resistances, and put the letter (E) when you are finished
+Use the letter (P) for parallel and the letter (S) for series
+Input: P 100 200 S 300 400 E
+Please enter the value of the voltage
+Input: 10
+Output: 
+The value of the total resistance is: 75
+The value of the current is: 0.133333
 
+
+
+## Flowchart
+
+To better understand the flow of the program, refer to the following flowchart:
+
+![Flowchart](images/flowchart.png)
+
+## Installation and Usage
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/yourusername/electrical-circuit-analysis.git
+    ```
+
+2. **Compile the Program**:
+    ```bash
+    g++ -o circuit_analysis circuit_analysis.cpp
+    ```
+
+3. **Run the Program**:
+    ```bash
+    ./circuit_analysis
+    ```
+
+4. **Follow On-Screen Instructions**:
+    - Enter the circuit description and voltage value as prompted.
+    - View the calculated total resistance and current.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
