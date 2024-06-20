@@ -64,23 +64,23 @@ The value of the current is: 0.133333
 
 To better understand the flow of the program, refer to the following flowchart:
 
-![Flowchart](images/flowchart.png)
+![Flowchart](Images/FlowChart.png)
 
 ## Installation and Usage
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/electrical-circuit-analysis.git
+    git clone https://github.com/MohamedHussein27/CPP-Project.git
     ```
 
 2. **Compile the Program**:
     ```bash
-    g++ -o circuit_analysis circuit_analysis.cpp
+    g++ -o CPP-Project CPP-Projects.cpp
     ```
 
 3. **Run the Program**:
     ```bash
-    ./circuit_analysis
+    ./CPP-Project
     ```
 
 4. **Follow On-Screen Instructions**:
